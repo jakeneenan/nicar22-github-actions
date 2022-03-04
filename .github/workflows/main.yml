@@ -25,6 +25,7 @@ jobs:
     # Step 4    
     - name: Run script to create main csv
       run: python get_all_data.py     
+           python analysis.py
     # Step 5
     - name: Commit and push if it changed
       run: |-
