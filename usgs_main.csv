@@ -1391,3 +1391,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T09:41:33.450Z,19.1714992523193,-155.4931640625,35.2299995422363,2.4000001,md,49.0,95.0,,0.140000001,hv,hv72944327,2022-03-09T09:47:04.360Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.51,0.819999993,0.310000002,29.0,automatic,hv,hv
 2022-03-09T09:40:45.450Z,33.3141667,-116.31,10.03,1.31,ml,44.0,50.0,0.04808,0.2,ci,ci40203192,2022-03-09T09:51:55.960Z,"9km NE of Borrego Springs, CA",earthquake,0.25,0.56,0.162,26.0,automatic,ci,ci
 2022-03-09T08:48:34.310Z,17.9495,-65.625,13.37,2.49,md,9.0,231.0,,0.32,pr,pr71339623,2022-03-09T09:44:33.540Z,"23 km SW of Esperanza, Puerto Rico",earthquake,1.25,0.8,0.0735474830856839,5.0,reviewed,pr,pr
+2022-03-09T10:00:26.840Z,36.984333,-121.6363297,2.95,1.84,md,21.0,52.0,0.05225,0.1,nc,nc73703231,2022-03-09T10:02:01.723Z,"6km WSW of Gilroy, CA",earthquake,0.22,0.64,0.15,21.0,automatic,nc,nc
+2022-03-09T09:59:48.782Z,61.5021,-146.4938,20.0,1.6,ml,,,,0.87,ak,ak02234m991a,2022-03-09T10:02:21.125Z,"42 km N of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
