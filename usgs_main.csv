@@ -1794,3 +1794,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-10T17:39:00.450Z,35.8825,-117.678,7.01,0.69,ml,13.0,86.0,0.06901,0.11,ci,ci40204368,2022-03-10T18:59:58.037Z,"22km ESE of Little Lake, CA",earthquake,0.18,0.42,0.024,4.0,reviewed,ci,ci
 2022-03-10T09:07:53.770Z,45.438,-112.0913333,5.93,0.49,ml,6.0,107.0,0.208,0.07,mb,mb80540124,2022-03-10T18:54:54.080Z,"8 km ESE of Sheridan, Montana",earthquake,0.36,5.65,0.255,3.0,reviewed,mb,mb
 2022-03-09T20:48:12.910Z,35.0598333,-118.3396667,-0.8,1.08,ml,12.0,72.0,0.06909,0.13,ci,ci40203616,2022-03-10T18:58:52.768Z,"13km SE of Tehachapi, CA",quarry blast,0.37,31.61,0.06,7.0,reviewed,ci,ci
+2022-03-10T01:28:46.980Z,18.8643333333333,-155.219,8.41,1.86,md,18.0,267.0,,0.11,hv,hv72945312,2022-03-10T19:08:34.850Z,"44 km ESE of Naalehu, Hawaii",earthquake,0.96,0.77,0.169110828512951,9.0,reviewed,hv,hv
